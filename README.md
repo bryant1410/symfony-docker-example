@@ -1,4 +1,4 @@
-#Dockerized Symfony Project
+# Dockerized Symfony Project
 
 A symfony project utilizing Docker based on PHP-FPM and nginx.
 
